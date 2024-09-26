@@ -18,5 +18,5 @@ Pig Game is a simple two-player dice game simulator.
 -  DOM Manipulation
 
 ## Acknowledgements
-This project is part of [Jonas Schmedtmann's](https://www.udemy.com/course/the-complete-javascript-course/) [JavaScript course on Udemy](https://www.udemy.com/course/the-complete-javascript-course/).<br>
+This project is part of [Jonas Schmedtmann's JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy.<br>
 The JavaScript implementation was done by me, with the CSS and HTML files being provided as part of the curriculum.
