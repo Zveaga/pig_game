@@ -6,7 +6,7 @@ Pig Game is a simple two-player dice game simulator.
 - The first player to reach 100 points wins 
 - Roll the dice to accumulate points
 - Click the "Hold" button to add the current points to the total score and end your turn
-- The trick is to avoid rolling a 1, wich causes you to loose all the current points
+- The trick is to avoid rolling a 1, which causes you to loose all the current points
 
 ## Technologies
 -  CSS
