@@ -1,5 +1,5 @@
 # Pig Game
-Pig Game is a two-player dice game simulator.
+Pig Game is a simple two-player dice game simulator.
 
 ## How to play
 - Clone the repository and open the index.html page to start the game
